@@ -6,9 +6,9 @@ table {
 	width: 100%;
 }
 caption{
-	font-size: 2.3rem;
+	font-size: 2.7rem;
 	font-weight: bold;
-    margin: 20px;
+    margin: 25px;
     color: blue;
     text-shadow: 3px 3px 4px #ecbb14;
 }
@@ -16,26 +16,26 @@ table tr th{
 	font-size: 1.5rem;
     padding: 5px;
     background-color: rgba(71, 89, 255, 0.8);
-	color: white;
+	color: yellow;
 }
 table tr td{
-	font-size: 20px;
+	font-size: 25px;
 	text-align: center;
 }
 table tr:nth-child(2){
-	background-color:  rgba(71, 249, 255, 0.2);
+	background-color:  rgba(77, 249, 255, 0.5);
 }
 table tr:nth-child(3){
-	background-color:  rgba(71, 166, 255, 0.2);
+	background-color:  rgba(71, 146, 205, 0.2);
 }
 table tr:nth-child(4){
-	background-color:  rgba(111, 71, 255, 0.2);
+	background-color:  rgba(111, 71, 245, 0.2);
 }
 table tr:nth-child(5){
-	background-color:  rgba(166, 71, 255, 0.2);
+	background-color:  rgba(176, 44, 255, 0.2);
 }
 table tr:nth-child(6){
-	background-color:  rgba(218, 71, 255, 0.2);
+	background-color:  rgba(208, 71, 255, 0.7);
 }
 table img{
     width: 85px;
@@ -45,5 +45,5 @@ table img{
 h3 {
     background-color: #01beff;
     text-align: center;
-    color: white;
+    color: blue;
 }
