@@ -11,7 +11,7 @@ h1{
     font-size: 2em;
     text-align: center;
     color: #000000;
-    text-shadow: 2px 2px 5px #fff8f8;
+    text-shadow: 4px 4px 7px #fff8f8;
 }
 .main{
     width: 69%;
@@ -20,9 +20,9 @@ h1{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: #ffffff45;
+    background-color: #fffddf45;
     padding: 17px;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.12) , 0 2px 4px rgba(0, 0, 0, 0.24);
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.27) , 0 2px 4px rgba(0, 0, 0, 0.24);
 }
 #name, #email, #phone, #age, #city, #date{
     width: 100%;
@@ -41,7 +41,7 @@ h1{
 }
 .regbtn , .rstbtn {
     background-color: #4c6fafc2;
-    color: white;
+    color: red;
     margin-top: 8px;
     padding: 16px 20px;
     font-size: 1rem;
