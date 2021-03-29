@@ -25,7 +25,7 @@
     margin: 24px 0px;
 }
 .btns button {
-    background-color: #7bb8ff; 
+    background-color: #00ffff; 
     border: none;
     color: red;
     width:27%;
@@ -40,7 +40,7 @@
     opacity: 0.9;
 }
 #lecturebtn {
-    background-color: #0840a7;
+    background-color: #bb40a7;
 }
 .lists {
     height: 65vh; 
